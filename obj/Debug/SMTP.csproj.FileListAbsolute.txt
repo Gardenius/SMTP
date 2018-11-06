@@ -1,0 +1,8 @@
+E:\VS programy\SMTP\bin\Debug\SMTP.exe
+E:\VS programy\SMTP\bin\Debug\SMTP.pdb
+E:\VS programy\SMTP\obj\Debug\SMTP.csprojResolveAssemblyReference.cache
+E:\VS programy\SMTP\obj\Debug\SMTP.Form1.resources
+E:\VS programy\SMTP\obj\Debug\SMTP.Properties.Resources.resources
+E:\VS programy\SMTP\obj\Debug\SMTP.csproj.GenerateResource.Cache
+E:\VS programy\SMTP\obj\Debug\SMTP.exe
+E:\VS programy\SMTP\obj\Debug\SMTP.pdb
